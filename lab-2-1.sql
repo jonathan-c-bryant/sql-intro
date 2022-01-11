@@ -16,3 +16,5 @@
 -- +------+------------------------+------+
 
 
+SELECT year, name, wins FROM teams WHERE wins>100;
+
